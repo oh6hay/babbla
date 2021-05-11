@@ -6,4 +6,4 @@ you need the [akvcam module](https://github.com/webcamoid/akvcam)
 
 TODO
 * provide actual documentation
-* submit a fix the python v4l2 module upstream
+* submit a fix to the python v4l2 module
