@@ -1,0 +1,5 @@
+vidgear
+opencv-python
+numpy
+v4l2
+pyaudio
